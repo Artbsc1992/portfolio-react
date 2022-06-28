@@ -71,7 +71,7 @@ h2 {
   margin-top: 25px;
   float: left;
   animation: fadeIn 1s 1.8s backwards;
-
+  white-space: nowrap;
 
   &:hover {
     background-color: #ffd700;
